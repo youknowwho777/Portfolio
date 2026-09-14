@@ -14,7 +14,7 @@ This document outlines the gap analysis, component architecture, and step-by-ste
 |  [Photo]                           |  [ Home  Projects  Skills  Contact ]   |
 |  Siddarth Reddy                    |                                        |
 |  Software Developer                |  About Me:                             |
-|  [Icons: LeetCode/Git/LinkedIn/Mail|  - Study/Degree (NIT Patna CSE)        |
+| x[Icons: LeetCode/Git/LinkedIn/Mail]|  - Study/Degree (NIT Patna CSE)       |
 |  Description (a few lines)         |  - Passion / Problem Solving points    |
 |  [Download Resume Button]          |  [ Illustration / Graphic Image ]      |
 +------------------------------------+----------------------------------------+
