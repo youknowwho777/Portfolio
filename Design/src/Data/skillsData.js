@@ -22,4 +22,5 @@ export const skillsData = [
     techStack: ["MongoDB", "MySQL", "Firebase"],
     rating: 4,
   },
+  
 ];

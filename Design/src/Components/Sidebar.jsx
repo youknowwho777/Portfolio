@@ -12,7 +12,7 @@ const socialLinks = [
   {
     name: 'GitHub',
     icon: FaGithub,
-    link: 'https://github.com',
+    link: 'https://github.com/youknowwho777',
   },
   {
     name: 'LinkedIn',
@@ -22,12 +22,12 @@ const socialLinks = [
   {
     name: 'LeetCode',
     icon: SiLeetcode,
-    link: 'https://leetcode.com',
+    link: 'https://leetcode.com/u/youknowwho777/',
   },
   {
     name: 'Codeforces',
     icon: SiCodeforces,
-    link: 'https://codeforces.com',
+    link: 'https://codeforces.com/profile/youknowwho_777',
   },
   {
     name: 'Email',
